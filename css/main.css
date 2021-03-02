@@ -56,9 +56,9 @@ body {
 .heading {
     padding: 160px 50px !important;
     color: #fff !important;
-    background-image: url("../assets/wavy-purple-by-nouridio.svg") !important;
-    background-position: bottom !important;
-    background-size: 300% !important;
+    background-image: url("https://media.discordapp.net/attachments/810355082498670613/815817852581838858/MOSHED-2021-3-1-9-28-30.gif") !important;
+    background-position: center !important;
+    background-size: cover !important;
     background-repeat: no-repeat !important;
 }
 
@@ -79,7 +79,7 @@ body {
     text-align: center !important;
     background: #AD91FF !important;
     padding: 60px 50px !important;
-    background-image: url("../assets/wavy-dark-by-nouridio.svg") !important;
+    background-image: url("../assets/myy.png") !important;
     background-position: bottom !important;
     background-size: 200% !important;
     background-repeat: no-repeat !important;
